@@ -1,19 +1,8 @@
-<p align="center">
-  <a href="https://aluiziodeveloper.com.br/">
-    <img alt="Conex Networks" src="https://aluiziodeveloper.com.br/assets/img/icon.png" width="200" />
-  </a>
-</p>
-<h2 align="center">
-Cursos, mini-cursos, dicas, tutoriais e muito mais.
-</h2>
-
-## Curso: API Restful Javascript com Node.js, Typescript, TypeORM etc
-
-Seja muito bem-vindo e bem-vinda ao curso: **API Restful Javascript com Node.js, Typescript, TypeORM etc**, aqui você desenvolverá um exemplo de uma API de vendas, com os módulos de produtos, usuários, clientes e pedidos de compras, além vários outros recursos, incluindo o uso do TypeORM, upload de arquivos, autenticação com JWT, sistema de cache com o Redis, e muito mais.
+## API de Vendas:
 
 Você precisará do Docker instalado em seu ambiente de desenvolvimento para rodar Postgres e Redis.
 
-Este repositório contém o código inicial do projeto que será desenvolvido durante o curso. A ideia é ganhar tempo já trazendo todas as configurações iniciais prontas e focar naquilo que é mais importante, que é a implementação da API de fato.
+Este repositório contém o código da API que foi desenvolvida.
 
 ### Instalando o projeto no seu PC
 
@@ -58,18 +47,6 @@ npm run dev
 
 ## Redes Sociais
 
-[Site Conex Networks](https://conexnetworks.com.br)
+[Instagram]()
 
-[Blog Aluizio Developer](https://aluiziodeveloper.com.br)
-
-[Perfil Udemy](https://www.udemy.com/user/jorge-aluizio-alves-de-souza/)
-
-[Cursos Gratuitos](https://letsgoahead.com.br/)
-
-[YouTube](https://www.youtube.com/jorgealuizio)
-
-[Instagram](https://www.instagram.com/conexnetworks.dev/)
-
-[Servidor no Discord](https://discord.gg/3J87BMz5fD)
-
-[LinkedIn](https://www.linkedin.com/in/jorgealuizio/)
+[LinkedIn](https://www.linkedin.com/in/duarteprog/)
