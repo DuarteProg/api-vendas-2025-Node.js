@@ -8,18 +8,18 @@ Este repositório contém o código da API que foi desenvolvida.
 
 Instale o projeto em seu ambiente de desenvolvimento seguindo as etapas a seguir.
 
-> NOTA: caso o seu PC esteja com Windows, recomendo trabalhar com um WSL Ubuntu. Acesse o link https://www.aluiziodeveloper.com.br/ambiente-de-desenvolvimento-no-windows-10-11-com-wsl/ para mais informações.
+> NOTA: caso o seu PC esteja com Windows, recomendo trabalhar com um WSL Ubuntu.
 
 1. No Shell, clonar o repositório do projeto em seu PC.
 
 ```shell
-git clone https://github.com/conexnetworks/apivendas2024-course-start-code.git api-vendas-2024
+git clone git@github.com:DuarteProg/api-vendas-2025-Node.js.git
 ```
 
 2. No Shell, acessar a pasta do projeto e instalar as dependências com o `Npm`.
 
 ```shell
-cd api-vendas-2024
+cd api-vendas-2025
 
 npm ci
 ```
@@ -41,9 +41,6 @@ O projeto inicial contém apenas o arquivo `server.ts` com o um `console.log`. E
 ```shell
 npm run dev
 ```
-
-**Partiu curso!**
-
 
 ## Redes Sociais
 
