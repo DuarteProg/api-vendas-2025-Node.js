@@ -12,6 +12,7 @@ const envSchema = z.object({
   DB_HOST: z.string().default('localhost'),
   DB_PORT: z.coerce.number().default(5432),
   DB_SCHEMA: z.string().default('public'),
+  DB_NAME: z.string().default('postgres'),
   DB_USERNAME: z.string().default('postgres'),
   DB_PASS: z.string().default('postgres'),
 })
